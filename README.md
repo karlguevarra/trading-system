@@ -171,4 +171,6 @@ curl --location 'http://127.0.0.1:8000/api/stocks/inventory/' \
 --header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzEyNTUyMjg1LCJpYXQiOjE3MTI0OTIyODUsImp0aSI6Ijk3YWU1MTVhN2ExMDRhZDhiOThiNjk4N2FiNjQyZWQ1IiwidXNlcl9pZCI6MiwidXNlcm5hbWUiOiJzdGFmZiJ9.bHSytu8i-Px4ZqXZ2yFYImpQASYYB85jYiCrv7QiTQ8'
 ```
 
-## TESTING
+## Testing
+
+In Progress
